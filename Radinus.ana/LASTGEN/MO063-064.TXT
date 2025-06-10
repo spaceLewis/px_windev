@@ -1,0 +1,3 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+Compte		TAR	803	nouvelle taille enregistrement : 803
+Compte	Devise	RUB+		Devise est une nouvelle rubrique

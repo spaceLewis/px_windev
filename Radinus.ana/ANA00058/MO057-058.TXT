@@ -1,0 +1,3 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+Operation		IDE-*		fichier sans identifiant
+Operation	IDOperation	CNW	Entier non signé sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDOperation a pour nouveau type Entier non signé sur 8 octets

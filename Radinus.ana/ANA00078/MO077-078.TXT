@@ -1,0 +1,3 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+CalOpPeriodique		TAR	272	nouvelle taille enregistrement : 272
+CalOpPeriodique	MontantInsert	RUB+		MontantInsert est une nouvelle rubrique

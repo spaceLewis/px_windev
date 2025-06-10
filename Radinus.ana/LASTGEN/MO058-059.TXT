@@ -1,0 +1,2 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+Operation	IDOperation	CNW	Entier sur 8 octets$Entier non signé sur 8 octets	la rubrique IDOperation a pour nouveau type Entier sur 8 octets
